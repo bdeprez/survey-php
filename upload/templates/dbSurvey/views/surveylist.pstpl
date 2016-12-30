@@ -1,0 +1,29 @@
+{CHECKJAVASCRIPT}
+
+<div class="row" id="surveys-list-container">
+    <div class="jumbotron" id="surveys-list-jumbotron">
+        <div class="container"><img id='page_logo' src='{TEMPLATEURL}/files/Limesurvey_logo.png' class="clearfix center-block" /></div>
+        <p class="">
+        </p>
+    </div>
+
+
+    <div class="col-xs-12 site-name">
+
+    </div>
+    <div class="col-xs-12 survey-list-heading">
+        {SURVEYLISTHEADING}
+    </div>
+    <div class="col-xs-12 survey-list">
+        {SURVEYLIST}
+    </div>
+
+</div>
+
+<div id="surveyListFooter" class="well">
+    <div class="container">
+        <p>
+                dbSurvey
+        </p>
+    </div>
+</div>
